@@ -1,0 +1,15 @@
+{
+  "timestamp": 1750001128782,
+  "operation": {
+    "id": "db:postgres"
+  },
+  "projectId": "real-estate-management-clients",
+  "files": [
+    {
+      "path": "../../apps/real-estate-management-clients/backend/db.sql",
+      "type": "text",
+      "size": 5028,
+      "dependencies": false
+    }
+  ]
+}

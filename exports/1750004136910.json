@@ -1,0 +1,19 @@
+{
+  "timestamp": 1750004136910,
+  "operation": {
+    "id": "webapp:react:views",
+    "refs": {
+      "id": "GV_Footer",
+      "version": "latest"
+    }
+  },
+  "projectId": "real-estate-management-clients",
+  "files": [
+    {
+      "path": "../../apps/real-estate-management-clients/vitereact/src/components/views/GV_Footer.tsx",
+      "type": "text",
+      "size": 1888,
+      "dependencies": false
+    }
+  ]
+}

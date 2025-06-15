@@ -1,0 +1,19 @@
+{
+  "timestamp": 1750002914351,
+  "operation": {
+    "id": "webapp:react:views",
+    "refs": {
+      "id": "UV_Dashboard_Manager",
+      "version": "latest"
+    }
+  },
+  "projectId": "real-estate-management-clients",
+  "files": [
+    {
+      "path": "../../apps/real-estate-management-clients/vitereact/src/components/views/UV_Dashboard_Manager.tsx",
+      "type": "text",
+      "size": 3999,
+      "dependencies": false
+    }
+  ]
+}

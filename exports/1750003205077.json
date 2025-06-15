@@ -1,0 +1,19 @@
+{
+  "timestamp": 1750003205077,
+  "operation": {
+    "id": "webapp:react:views",
+    "refs": {
+      "id": "UV_UserManagement",
+      "version": "1750002682558"
+    }
+  },
+  "projectId": "real-estate-management-clients",
+  "files": [
+    {
+      "path": "../../apps/real-estate-management-clients/vitereact/src/components/views/UV_UserManagement.tsx",
+      "type": "text",
+      "size": 8618,
+      "dependencies": false
+    }
+  ]
+}

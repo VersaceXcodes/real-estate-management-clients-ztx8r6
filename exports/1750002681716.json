@@ -1,0 +1,19 @@
+{
+  "timestamp": 1750002681716,
+  "operation": {
+    "id": "webapp:react:root",
+    "refs": {
+      "id": "app",
+      "version": "1750002577147"
+    }
+  },
+  "projectId": "real-estate-management-clients",
+  "files": [
+    {
+      "path": "../../apps/real-estate-management-clients/vitereact/src/App.tsx",
+      "type": "text",
+      "size": 3408,
+      "dependencies": false
+    }
+  ]
+}

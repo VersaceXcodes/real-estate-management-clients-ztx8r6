@@ -1,0 +1,15 @@
+{
+  "timestamp": 1750001597036,
+  "operation": {
+    "id": "backend:specifications:openapi"
+  },
+  "projectId": "real-estate-management-clients",
+  "files": [
+    {
+      "path": "../../apps/real-estate-management-clients/backend/openapi.yaml",
+      "type": "text",
+      "size": 3,
+      "dependencies": false
+    }
+  ]
+}

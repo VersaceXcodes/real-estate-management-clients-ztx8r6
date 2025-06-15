@@ -1,0 +1,19 @@
+{
+  "timestamp": 1750002910717,
+  "operation": {
+    "id": "webapp:react:views",
+    "refs": {
+      "id": "UV_ForgotPassword",
+      "version": "1750002682517"
+    }
+  },
+  "projectId": "real-estate-management-clients",
+  "files": [
+    {
+      "path": "../../apps/real-estate-management-clients/vitereact/src/components/views/UV_ForgotPassword.tsx",
+      "type": "text",
+      "size": 3812,
+      "dependencies": false
+    }
+  ]
+}

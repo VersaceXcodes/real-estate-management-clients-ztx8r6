@@ -1,0 +1,19 @@
+{
+  "timestamp": 1750003161060,
+  "operation": {
+    "id": "webapp:react:views",
+    "refs": {
+      "id": "GV_TopNav",
+      "version": "1750002682564"
+    }
+  },
+  "projectId": "real-estate-management-clients",
+  "files": [
+    {
+      "path": "../../apps/real-estate-management-clients/vitereact/src/components/views/GV_TopNav.tsx",
+      "type": "text",
+      "size": 3652,
+      "dependencies": false
+    }
+  ]
+}

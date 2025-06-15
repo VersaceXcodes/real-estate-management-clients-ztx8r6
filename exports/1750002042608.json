@@ -1,0 +1,21 @@
+{
+  "timestamp": 1750002042608,
+  "operation": {
+    "id": "settings:config:package"
+  },
+  "projectId": "real-estate-management-clients",
+  "files": [
+    {
+      "path": "../../apps/real-estate-management-clients/backend/package.json",
+      "type": "text",
+      "size": 912,
+      "dependencies": true
+    },
+    {
+      "path": "../../apps/real-estate-management-clients/backend/.env",
+      "type": "text",
+      "size": 673,
+      "dependencies": false
+    }
+  ]
+}

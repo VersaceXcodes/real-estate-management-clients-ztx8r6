@@ -1,0 +1,15 @@
+{
+  "timestamp": 1750001342475,
+  "operation": {
+    "id": "backend:specifications:asyncapi"
+  },
+  "projectId": "real-estate-management-clients",
+  "files": [
+    {
+      "path": "../../apps/real-estate-management-clients/backend/asyncapi.yaml",
+      "type": "text",
+      "size": 3,
+      "dependencies": false
+    }
+  ]
+}
